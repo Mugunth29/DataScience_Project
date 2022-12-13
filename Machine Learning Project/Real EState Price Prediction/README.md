@@ -1,9 +1,9 @@
 
 # home prices predictions
 
-#### Project Objectives :
+## Project Objectives :
 
-In this data science project, I tried to create a simple machine learning model to predict real estate prices in Bengaluru.
+### In this data science project, I tried to create a simple machine learning model to predict real estate prices in Bengaluru.
 
 
 
