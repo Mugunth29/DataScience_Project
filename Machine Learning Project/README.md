@@ -5,7 +5,7 @@
   
   
   # Projects
-1. [home prices predictions](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/GooglePlaystore)      
+1. [home prices predictions](https://github.com/Mugunth29/DataScience_Project/tree/main/Machine%20Learning%20Project/End%20to%20End%20Flight%20Fare%20prediction)      
                   
          This project is to deliver Predicting housing prices using bengaluru house price dataset.
 
