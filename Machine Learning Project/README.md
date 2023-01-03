@@ -14,8 +14,4 @@
               
          This project is to deliver Predicting Flight Fare and build a website
          
- 3. [Netflix EDA](https://github.com/Mugunth29/Exploratory-Data-Analysis-with-Python/tree/main/Netflix%20EDA)
-  
-         The Netflix dataset has information about the tv shows and movies available on 
-         netflix till 2021
-
+ 
